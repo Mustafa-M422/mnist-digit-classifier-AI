@@ -51,6 +51,10 @@ print("\nClassification Report:\n", report)
 print("Confusion Matrix:\n", conf_matrix)
 
 # Save reports to text files (optional)
+
+os.makedirs("results", exist_ok=True)
+
+
 with open("results/classification_report.txt", "w") as f:
     f.write(report)
 
