@@ -4,8 +4,17 @@
 ## My info
 
 
-Name: Mostafa Mohamed 
-ID: 40201893
+**Name:** Mostafa Mohamed 
+
+**ID:** 40201893
+
+**Name:** Pascal Ypperciel
+
+**ID:** 40210921 
+
+**Name:** Andy Su
+
+**ID:** 40226463
 
 ---
 
@@ -45,7 +54,6 @@ The goal was to build a basic digit classifier using Python and get familiar wit
 ##  How to Run
 
 ```bash
-git clone https://github.com/yourusername/mnist-digit-classifier.git
 cd mnist-digit-classifier
 pip install -r requirements.txt
 python digit_classifier.py
